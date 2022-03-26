@@ -1,8 +1,7 @@
-<html>
-  <head>
-    <title>Mi primer codigo JavaScript</title>
-  </head>
-  <body>
-    <h1>Mi primer código JavaScript</h1>
-  </body>
-</html>
+public class HolaMundo {
+
+	public static void main(String[] args) {		
+		System.out.println("Hola Mundo");
+	}
+
+}
